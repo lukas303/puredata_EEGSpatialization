@@ -1,1 +1,1 @@
-# puredata_EEGSonification
+# purdata_EEGSpatialization
